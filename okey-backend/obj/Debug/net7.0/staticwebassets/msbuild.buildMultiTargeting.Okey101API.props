@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Okey101API.props" />
+</Project>
